@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/    
+
+  - title: "Short Bio"
+    url: /bio/ 
