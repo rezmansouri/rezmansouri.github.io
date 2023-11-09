@@ -11,11 +11,6 @@ About Me
 ======
 Hi! I'm Reza, a computer science Ph.D. student at [Georgia State University](https://gsu.edu). I'm currently a research assistant in the [Data Mining Laboratory](https://dmlab.cs.gsu.edu) where I conduct research in predicting extreme space weather events using big data and data-driven analyses.
 
-My Research
-------
-My research interests are **Computer Vision**, **Deep Neural Networks**, and **Sequence Models**.
-
-As an undergraduate student I also have co-authored papers related to more technical disciplines such as cloud computing which can be found in the [publications](https://rezmansouri.github.io/publications) page. 
 
 Contact Me
 ------
