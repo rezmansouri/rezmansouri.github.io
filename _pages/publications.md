@@ -7,7 +7,7 @@ author_profile: true
 ## Papers in Refereed Journals
 
 ### [1] BridgeCut: A New Algorithm for Balanced Partitioning of Signed Networks
-Ehsani M., **Mansouri R.**, *The Journal of Supercomputing (2023)* <sup>under review</sup>
+Ehsani M., **Mansouri R.**, *Journal of Electrical and Computer Engineering Innovations (2023)* <sup>under review</sup>
 
  Inspired by the Girvan-Newman community detection algorithm, this paper presents a new approach, called _BridgeCut_, in which the negative edges, sorted by the betweenness measure, are determined in a constructive algorithm as the bridge set between the two parts.
 
