@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Papers in Refereed Journals
 
-### [1] BridgeCut: A New Algorithm for Balanced Partitioning of Signed Networks
-Ehsani M., **Mansouri R.**, *Journal of Electrical and Computer Engineering Innovations (2023)* <sup>under review</sup>
+### <a href="https://www.researchgate.net/publication/367082829_BridgeCut_A_New_Algorithm_for_Balanced_Partitioning_of_Signed_Networks" target="_blank">[1] BridgeCut: A New Algorithm for Balanced Partitioning of Signed Networks</a>
+Ehsani M., **Mansouri R.**, *ResearchSquare - Preprint*
 
  Inspired by the Girvan-Newman community detection algorithm, this paper presents a new approach, called _BridgeCut_, in which the negative edges, sorted by the betweenness measure, are determined in a constructive algorithm as the bridge set between the two parts.
 
@@ -21,7 +21,7 @@ Ehsani M., **Mansouri R.**, *Journal of Electrical and Computer Engineering Inno
 <hr/>
 
 ### [2] Load Balancing in Cloud, Fog Computing and Convergence of Fog and Cloud – A Survey
-Mirtaheri S. L., Azari Jafari M., Greco S., Arianian E. and **Mansouri R.**, *Journal of Information Systems and Telecommunication (2023)*<sup> under review</sup>
+Mirtaheri S. L., Azari Jafari M., Greco S., Arianian E. and **Mansouri R.**, *Journal of Information Systems and Telecommunication (2023)*<sup> accepted </sup>
 
 This paper reviews and investigates the modern and diverse load balancing aspects of fog and cloud computing systems. We also categorize the load balancing algorithms in cloud and fog computing: meta-heuristic algorithms, heuristic algorithms, learning algorithms, and customized algorithms. We propose different research classes about the algorithm's type, objectives, simulation tools, and so forth.
 
