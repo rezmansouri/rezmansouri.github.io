@@ -20,19 +20,6 @@ Ehsani M., **Mansouri R.**, *ResearchSquare - Preprint*
 </p>
 <hr/>
 
-### [2] Load Balancing in Cloud, Fog Computing and Convergence of Fog and Cloud – A Survey
-Mirtaheri S. L., Azari Jafari M., Greco S., Arianian E. and **Mansouri R.**, *Journal of Information Systems and Telecommunication (2023)*<sup> accepted </sup>
-
-This paper reviews and investigates the modern and diverse load balancing aspects of fog and cloud computing systems. We also categorize the load balancing algorithms in cloud and fog computing: meta-heuristic algorithms, heuristic algorithms, learning algorithms, and customized algorithms. We propose different research classes about the algorithm's type, objectives, simulation tools, and so forth.
-
-<p align="center">
-  <img src="/images/cloud.png" width="500em" height="auto">
-</p>
-<p align="center">
-<i>Objective of load balancing algorithms in cloud computing</i>
-</p>
-<hr/>
-
 ## Papers in Refereed Conferences<br>
 
 ### <a href="https://en.civilica.com/doc/1366047/" target="_blank">[3] A New Approach to Balanced Partitioning of Signed Networks</a>
