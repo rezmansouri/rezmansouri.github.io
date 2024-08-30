@@ -13,7 +13,7 @@ Hi! I'm Reza, a computer science Ph.D. student at [Georgia State University](htt
 
 Research Interests
 ------
-I am primarily interested in applying data mining techniques on visionary data to solve real-world problems. This essentially involves the accomponied use of computer vision algorithms along with machine learning techniques, and especially deep neural networks. As another one of my interests, at the moment, I am focused on working with sequential data with temporal correlation, such as time series to derive more high-level findings.
+I am primarily interested in applying data mining techniques on visionary data to solve real-world problems. This essentially involves the accomponied use of computer vision algorithms along with machine learning techniques, and especially deep neural networks.
 
 Contact Me
 ------
