@@ -1,18 +1,33 @@
+<<<<<<< HEAD
 // List Icons
+=======
+// icons in a list
+>>>>>>> academicpages/master
 // -------------------------
 
 .#{$fa-css-prefix}-ul {
   list-style-type: none;
+<<<<<<< HEAD
   margin-left: $fa-li-width * 5/4;
+=======
+  margin-left: var(--#{$fa-css-prefix}-li-margin, #{$fa-li-margin});
+>>>>>>> academicpages/master
   padding-left: 0;
 
   > li { position: relative; }
 }
 
 .#{$fa-css-prefix}-li {
+<<<<<<< HEAD
   left: -$fa-li-width;
   position: absolute;
   text-align: center;
   width: $fa-li-width;
+=======
+  left: calc(var(--#{$fa-css-prefix}-li-width, #{$fa-li-width}) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--#{$fa-css-prefix}-li-width, #{$fa-li-width});
+>>>>>>> academicpages/master
   line-height: inherit;
 }

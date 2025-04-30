@@ -1,7 +1,10 @@
 ---
 permalink: /non-menu-page/
 title: "Page not in menu"
+<<<<<<< HEAD
 excerpt: "This is a page not in th emain menu"
+=======
+>>>>>>> academicpages/master
 author_profile: true
 redirect_from: 
   - "/nmp/"

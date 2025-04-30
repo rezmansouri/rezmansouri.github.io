@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
 readers do not read off random characters that represent icons */
 
@@ -1260,3 +1261,15 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-youtube:before { content: fa-content($fa-var-youtube); }
 .#{$fa-css-prefix}-youtube-square:before { content: fa-content($fa-var-youtube-square); }
 .#{$fa-css-prefix}-zhihu:before { content: fa-content($fa-var-zhihu); }
+=======
+// specific icon class definition
+// -------------------------
+
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+readers do not read off random characters that represent icons */
+
+@each $name, $icon in $fa-icons {
+  .#{$fa-css-prefix}-#{$name}::before { content: unquote("\"#{ $icon }\""); }
+}
+
+>>>>>>> academicpages/master
