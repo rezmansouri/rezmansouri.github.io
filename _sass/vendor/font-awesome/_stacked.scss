@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// Stacked Icons
-=======
 // stacking icons
->>>>>>> academicpages/master
 // -------------------------
 
 .#{$fa-css-prefix}-stack {
@@ -10,13 +6,8 @@
   height: 2em;
   line-height: 2em;
   position: relative;
-<<<<<<< HEAD
-  vertical-align: middle;
-  width: ($fa-fw-width*2);
-=======
   vertical-align: $fa-stack-vertical-align;
   width: $fa-stack-width;
->>>>>>> academicpages/master
 }
 
 .#{$fa-css-prefix}-stack-1x,
@@ -25,10 +16,7 @@
   position: absolute;
   text-align: center;
   width: 100%;
-<<<<<<< HEAD
-=======
   z-index: var(--#{$fa-css-prefix}-stack-z-index, #{$fa-stack-z-index});
->>>>>>> academicpages/master
 }
 
 .#{$fa-css-prefix}-stack-1x {
@@ -40,9 +28,5 @@
 }
 
 .#{$fa-css-prefix}-inverse {
-<<<<<<< HEAD
-  color: $fa-inverse;
-=======
   color: var(--#{$fa-css-prefix}-inverse, #{$fa-inverse});
->>>>>>> academicpages/master
 }

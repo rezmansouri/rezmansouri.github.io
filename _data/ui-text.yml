@@ -66,29 +66,6 @@ es: &DEFAULT_ES
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
   comments_label             : "Comentar"
-<<<<<<< HEAD
-  comments_title             :
-  more_label                 : "Ver más"
-  related_label              : "Podrías ver también"
-  follow_label               : "Seguir:"
-  feed_label                 : "Feed"
-  powered_by                 : "Powered by"
-  website_label              : "Sitio web"
-  email_label                : "Email"
-  recent_posts               : "Entradas recientes"
-  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
-=======
   comments_title             : "Deja un comentario"
   more_label                 : "Ver más"
   related_label              : "Quizás te interese"
@@ -110,7 +87,6 @@ es: &DEFAULT_ES
   comment_success_msg        : "¡Gracias por tu comentario! Aparecerá en la página cuando sea aprobado." 
   comment_error_msg          : "Lo sentimos, ha habido un error con tu solicitud. Por favor, asegúrate de rellenar todos los campos obligatorios e inténtalo de nuevo."
   loading_label              : "Cargando..."
->>>>>>> academicpages/master
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -290,8 +266,6 @@ it: &DEFAULT_IT
 it-IT:
   <<: *DEFAULT_IT
 
-<<<<<<< HEAD
-=======
 # Chinese (simplified)
 # -----------------
 zh: &DEFAULT_ZH
@@ -376,6 +350,5 @@ zh-HK: &DEFAULT_ZH_HK
 zh-TW:
   <<: *DEFAULT_ZH_HK
 
->>>>>>> academicpages/master
 # Another locale
 # --------------

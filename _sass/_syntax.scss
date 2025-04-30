@@ -6,33 +6,20 @@ div.highlighter-rouge, figure.highlight {
   position: relative;
   margin-bottom: 1em;
   padding: 1em;
-<<<<<<< HEAD
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background-color: $code-background-color;
-  box-shadow: $box-shadow;
-=======
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
   background-color: var(--global-code-background-color);
   box-shadow: $box-shadow;
   font-size: $type-size-4;
->>>>>>> academicpages/master
 
   &:before {
     position: absolute;
     top: 0;
     right: 0;
     padding: 0.5em;
-<<<<<<< HEAD
-    background-color: $lighter-gray;
-    content: "\f121";
-    font-family: "fontawesome" !important;
-=======
     background-color: mix(#fff, #7a8288, 90%);
     content: "\f121";
     font-family: "Font Awesome 6 Free" !important;
->>>>>>> academicpages/master
     font-size: $type-size-6;
     line-height: 1;
     text-transform: none;
@@ -42,11 +29,7 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-<<<<<<< HEAD
-    font-size: $type-size-7;
-=======
     font-size: $type-size-6;
->>>>>>> academicpages/master
     line-height: 1.8;
   }
 }
@@ -138,8 +121,4 @@ div.highlighter-rouge, figure.highlight {
 .highlight .vc { color: #22b3eb } /* Name.Variable.Class */
 .highlight .vg { color: #22b3eb } /* Name.Variable.Global */
 .highlight .vi { color: #22b3eb } /* Name.Variable.Instance */
-<<<<<<< HEAD
 .highlight .il { color: #2aa198 } /* Literal.Number.Integer.Long */
-=======
-.highlight .il { color: #2aa198 } /* Literal.Number.Integer.Long */
->>>>>>> academicpages/master

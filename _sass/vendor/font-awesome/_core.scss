@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-// Base Class Definition
-// -------------------------
-
-.#{$fa-css-prefix},
-.fas,
-.far,
-.fal,
-.fab {
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  display: inline-block;
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  line-height: 1;
-}
-
-=======
 // base icon class definition
 // -------------------------
 
@@ -57,7 +38,6 @@
 }
 
 
->>>>>>> academicpages/master
 %fa-icon {
   @include fa-icon;
 }

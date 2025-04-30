@@ -25,23 +25,12 @@ redirect_from:
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-<<<<<<< HEAD
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-=======
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
->>>>>>> academicpages/master
   * Green check: successful build
   * Orange circle: building
   * Red X: error
   * No icon: not built
 
-<<<<<<< HEAD
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
-## Markdown guide
-
-=======
 * Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
   * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
   * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
@@ -76,7 +65,6 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 
 Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
 
->>>>>>> academicpages/master
 ### Header three
 
 #### Header four
@@ -106,12 +94,8 @@ Single line blockquote:
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
-<<<<<<< HEAD
-| cell4   | cell5   | cell6   |
-=======
 | cell4   | ce
 ll5   | cell6   |
->>>>>>> academicpages/master
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
@@ -168,10 +152,6 @@ Make any link standout more when applying the `.btn` class.
 
 ## Notices
 
-<<<<<<< HEAD
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-=======
 Basic notices or call-outs are supported using the following syntax:
 
 ```markdown
@@ -197,7 +177,6 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 [^1]: Such as this footnote.
 [^note]: When using text for footnotes markers, no spaces are permitted in the name.
->>>>>>> academicpages/master
 
 ## HTML Tags
 
@@ -209,11 +188,7 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 ### Anchor Tag (aka. Link)
 
-<<<<<<< HEAD
-This is an example of a [link](http://github.com "Github").
-=======
 This is an example of a [link](http://github.com "GitHub").
->>>>>>> academicpages/master
 
 ### Abbreviation Tag
 
@@ -229,11 +204,6 @@ The abbreviation CSS stands for "Cascading Style Sheets".
 
 You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
 
-<<<<<<< HEAD
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-=======
 You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
 
 ```python
@@ -271,7 +241,6 @@ Or, you can leave a section open by default by including the `open` attribute in
   This section is open by default thanks to open in the &lt;details open&gt; tag!
 </details>
 
->>>>>>> academicpages/master
 
 ### Emphasize Tag
 
@@ -303,13 +272,10 @@ This tag styles large blocks of code.
 
 <q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
 
-<<<<<<< HEAD
-=======
 ### Strike Tag
 
 This tag will let you <strike>strikeout text</strike>.
 
->>>>>>> academicpages/master
 ### Strong Tag
 
 This tag shows **bold text**.
@@ -325,12 +291,9 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
-<<<<<<< HEAD
-=======
 
 ***
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 
->>>>>>> academicpages/master
