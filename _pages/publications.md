@@ -13,7 +13,7 @@ author_profile: true
 **Mansouri R.**, Angryk R., and Reardon K., *The International FLAIRS Conference Proceedings, 38(1)*<sup> published</sup>
 
 <p align="center">
-  <img src="/images/granules.png" width="550em" height="auto">
+  <img src="/images/granules.gif" width="550em" height="auto">
 </p> 
 
 Granules are small cellular structures that populate the solar photosphere and are formed by the dynamic behavior of convection cells. This constant motion generates an evolving pattern of diverse granule types and intergranular regions across the photosphere. Understanding this microscale phenomenon by accurately identifying and classifying the underlying structures is crucial to advance the knowledge of the fundamental physical processes driving solar dynamics. In this study, we leverage images from the IMaX instrument on the SUNRISE balloon-borne telescope, along with their corresponding ground truth masks, to conduct a comparative evaluation of various neural semantic segmentation models. Our best-performing methodology achieves an average mIoU of 0.41 and an average dice coefficient of 0.53 among the classes. Furthermore, we applied the best performing model to high-resolution images from the Daniel K. Inouye Solar Telescope (DKIST) telescope, generating preliminary annotations to facilitate future analysis, making this the first application of these techniques to data from DKIST. The source code is publicly available at <a href="http://github.com/rezmansouri/imax-to-dkist">github.com/rezmansouri/imax-to-dkist</a>.
