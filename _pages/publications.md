@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-### <a href="https://en.civilica.com/doc/1366047/" target="_blank">[1] Exploring Solar Granulation: from IMaX/SUNRISE to DKIST</a>
+### <a href="https://journals.flvc.org/FLAIRS/article/view/138987" target="_blank">[1] Exploring Solar Granulation: from IMaX/SUNRISE to DKIST</a>
 **Mansouri R.**, Angryk R., and Reardon K., *The International FLAIRS Conference Proceedings, 38(1)*<sup> published</sup>
 
 <p align="center">
