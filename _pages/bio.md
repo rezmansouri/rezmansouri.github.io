@@ -13,7 +13,16 @@ Since I was a kid, I've been fascinated by the world of computers, probably beca
   <img src="/images/minirez.JPG" width="450em" height="auto">
 </p>
 
-I studied **Mathematics/Physics** in high-school and graduated with a B.Sc. in **Computer (Software) Engineering** from [KHU](https://khu.ac.ir/en). I'm currently a Ph.D. student in **Computer Science** at [GSU](https://gsu.edu), and a graduate research assistant in [DMLab](https://dmlab.cs.gsu.edu), under the supervision of [Dr. Angryk](https://cas.gsu.edu/profile/rafal-angryk/), conducting research in building data-driven forecasting techniques for extreme space weather events.
+I studied **Mathematics/Physics** in high-school and graduated with a B.Sc. in **Computer (Software) Engineering** from [KHU](https://khu.ac.ir/en). 
+
+
+<p align="center">
+  <img src="/images/flairs.jpeg" width="450em" height="auto">
+</p>
+
+I'm currently a Ph.D. student in **Computer Science** at [GSU](https://gsu.edu), and a graduate research assistant in [DMLab](https://dmlab.cs.gsu.edu), under the supervision of [Dr. Angryk](https://cas.gsu.edu/profile/rafal-angryk/), conducting research in building data-driven forecasting techniques for extreme space weather events.
+
+
 
 <p align="center">
   <img src="/images/camping.JPG">

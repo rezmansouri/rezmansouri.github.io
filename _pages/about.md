@@ -17,4 +17,4 @@ I am primarily interested in applying data mining techniques on visionary data t
 
 Contact Me
 ------
-If you are interested in my projects/research, or have a question about them, you can reach me via <a href="mailto:itsrezamansouri@gmail.com" target="_blank">itsrezamansouri@gmail.com</a>. I would be glad to reach out back to you as soon as possible.
+If you are interested in my projects/research, or have a question about them, you can reach me via `itsrezamansouri [at] gmail.com`. I would be glad to reach out back to you as soon as possible.
