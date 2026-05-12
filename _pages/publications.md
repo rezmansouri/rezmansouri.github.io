@@ -13,7 +13,7 @@ author_profile: true
 <!-- ABSTRACT START -->
 We utilize the Spherical Fourier Neural Operator (SFNO) as a novel data-driven surrogate model for simulating the radial velocity of the solar wind on spherical shells. Unlike traditional models like HUX that rely on empirical acceleration terms, SFNO learns directly from data in the spectral domain on spherical geometries—enabling faster, scalable, and flexible forecasts.
 
-In addition to the base model, we propose an autoregressive variation of SFNO: it predicts the solar wind velocity across 5 radial shells (channels) at a time and recursively uses the last predicted shell as input to forecast the next 5, continuing until all 139 radial shells are predicted. This approach allows the model to generate full 3D radial profiles with a compact architecture.
+In addition to the base model, we propose an autoregressive variation of SFNO: it predicts the solar wind velocity across 5 radial shells (channels) at a time and recursively uses the last predicted shell as input to forecast the next 5, continuing until all 139 radial shells are predicted. This approach allows the model to generate full 3D radial profiles with a compact architecture. The source code is publicly available at <a href="https://github.com/rezmansouri/solarwind-sfno-velocity">github.com/rezmansouri/solarwind-sfno-velocity</a>.
 <!-- ABSTRACT END -->
 
 <p align="center">
@@ -32,7 +32,7 @@ In addition to the base model, we propose an autoregressive variation of SFNO: i
 <!-- ABSTRACT START -->
 The project utilizes the Spherical Fourier Neural Operator (SFNO) as the first data-driven surrogate model for simulating the radial velocity of the solar wind.
 
-Traditional numerical models like HUX rely on simplified assumptions that limit adaptability and real-time performance. SFNO learns directly from data in the spectral domain on spherical geometries, offering a flexible and efficient alternative that improves with more data and training.
+Traditional numerical models like HUX rely on simplified assumptions that limit adaptability and real-time performance. SFNO learns directly from data in the spectral domain on spherical geometries, offering a flexible and efficient alternative that improves with more data and training. The source code is publicly available at <a href="https://github.com/rezmansouri/solarwind-sfno-velocity-autoregressive">github.com/rezmansouri/solarwind-sfno-velocity-autoregressive</a>.
 <!-- ABSTRACT END -->
 
 
