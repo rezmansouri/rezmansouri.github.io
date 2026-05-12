@@ -11,7 +11,7 @@ author_profile: true
 **Mansouri R.**, Kempton D. J., Riley P., and Angryk R. A., *IEEE International Conference on Data Mining Workshops (ICDMW), 2025*<sup> published</sup>
 
 <p align="center">
-  <img src="https://github.com/rezmansouri/solarwind-sfno-velocity-autoregressive/raw/main/images/cr2293.gif" width="550em" height="auto">
+  <img src="https://github.com/rezmansouri/solarwind-sfno-velocity-autoregressive/raw/main/images/cr2293.gif" width="750em" height="auto">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ In addition to the base model, we propose an autoregressive variation of SFNO: i
 **Mansouri R.**, Kempton D. J., Riley P., and Angryk R. A., *International Conference on Machine Learning and Applications (ICMLA), 2025*<sup> published</sup>
 
 <p align="center">
-  <img src="https://github.com/rezmansouri/solarwind-sfno-velocity/raw/main/images/cr2268.gif" width="550em" height="auto">
+  <img src="https://github.com/rezmansouri/solarwind-sfno-velocity/raw/main/images/cr2268.gif" width="750em" height="auto">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Traditional numerical models like HUX rely on simplified assumptions that limit 
 Khani Z., **Mansouri R.**, and Aydin B., *IEEE International Conference on Cognitive Machine Intelligence (CogMI), 2025*<sup> published</sup>
 
 <p align="center">
-  <img src="/images/multimodal-1.png" width="550em" height="auto">
+  <img src="/images/multimodal-1.png" width="750em" height="auto">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Solar flares are among the most critical space weather events, marked by sudden 
 Khani Z., **Mansouri R.**, and Aydin B., *International Conference on Machine Learning and Applications (ICMLA), 2025*<sup> published</sup>
 
 <p align="center">
-  <img src="/images/multimodal-2.png" width="550em" height="auto">
+  <img src="/images/multimodal-2.png" width="750em" height="auto">
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Predicting solar flares is a central problem in space weather forecasting that h
 **Mansouri R.**, Angryk R., and Reardon K., *The International FLAIRS Conference Proceedings, 38(1)*<sup> published</sup>
 
 <p align="center">
-  <img src="/images/granules.gif" width="550em" height="auto">
+  <img src="/images/granules.gif" width="750em" height="auto">
 </p>
 
 Granules are small cellular structures that populate the solar photosphere and are formed by the dynamic behavior of convection cells. This constant motion generates an evolving pattern of diverse granule types and intergranular regions across the photosphere. Understanding this microscale phenomenon by accurately identifying and classifying the underlying structures is crucial to advance the knowledge of the fundamental physical processes driving solar dynamics. In this study, we leverage images from the IMaX instrument on the SUNRISE balloon-borne telescope, along with their corresponding ground truth masks, to conduct a comparative evaluation of various neural semantic segmentation models. Our best-performing methodology achieves an average mIoU of 0.41 and an average dice coefficient of 0.53 among the classes. Furthermore, we applied the best performing model to high-resolution images from the Daniel K. Inouye Solar Telescope (DKIST) telescope, generating preliminary annotations to facilitate future analysis, making this the first application of these techniques to data from DKIST. The source code is publicly available at <a href="http://github.com/rezmansouri/imax-to-dkist">github.com/rezmansouri/imax-to-dkist</a>.
@@ -95,7 +95,7 @@ Granules are small cellular structures that populate the solar photosphere and a
 Ehsani M., **Mansouri R.**, *14<sup>th</sup> International Conference of Iranian Operations Research Society (ICORS 2021)*<sup> published</sup>
 
 <p align="center">
-  <img src="/images/bridgecut.jpg" width="550em" height="auto">
+  <img src="/images/bridgecut.jpg" width="750em" height="auto">
 </p>
 
 This paper presents a new approach to partition an imbalanced signed network into two near-balanced sub-networks. We further supplemented the results of this work with additional investigations on some measures to evaluate signed links' properties in relevance to their position and role in the whole structure of a network.
